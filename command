@@ -1,1 +1,1 @@
-getFiles
+getFiles docx 
