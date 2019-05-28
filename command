@@ -1,1 +1,1 @@
-ping dziekan.eu
+getFiles
