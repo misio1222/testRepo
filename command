@@ -1,1 +1,1 @@
-delete
+ping dziekan.eu
